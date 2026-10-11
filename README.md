@@ -1,6 +1,6 @@
-# ======================================================================
+
 # BOOKSTORE ANALYZER - README
-# ======================================================================
+
 
 An object-oriented Python command-line application designed for managing 
 bookstore inventory, processing purchases, tracking sales, and generating 
